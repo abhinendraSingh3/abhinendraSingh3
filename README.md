@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Django,Mysql**
 
-- 💬 Ask me about **Python,Django**
+- 💬 Ask me about **Python,Django** 
 
 - 📫 How to reach me **abhinendrayadav3@gmail.com**
 

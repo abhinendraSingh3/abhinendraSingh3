@@ -1,16 +1,16 @@
 [![@abhinendrayadav3's Holopin board](https://holopin.me/abhinendrayadav3)](https://holopin.io/@abhinendrayadav3)
 
 <h1 align="center">Hi 👋, I'm Abhinendra Singh</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=abhinendrasingh3&label=Profile%20views&color=0e75b6&style=flat" alt="abhinendrasingh3" /> </p>
 
-- 🔭 I’m currently working on **Quiz App**
+- 🔭 I’m currently working on **Various Tech Stacks**
 
-- 🌱 I’m currently learning **Django,Mysql**
+- 🌱 I’m currently learning **Mysql**
 
-- 💬 Ask me about **Python,Django**  
+- 💬 Ask me about **Python,Java**  
 
 - 📫 How to reach me **abhinendrayadav3@gmail.com**
 

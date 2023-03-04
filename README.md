@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Various Tech Stacks**
 
-- 🌱 I’m currently learning **Mysql**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Python,Java**  
+- 💬 Ask me about **Javascript,Python**  
 
 - 📫 How to reach me **abhinendrayadav3@gmail.com**
 

@@ -6,11 +6,11 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=abhinendrasingh3&label=Profile%20views&color=0e75b6&style=flat" alt="abhinendrasingh3" /> </p>
 
-- 🔭 I’m currently working on **Various Tech Stacks**
+- 🔭 I’m currently working on **Backend**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NodeJS**
 
-- 💬 Ask me about **Javascript,Python**  
+- 💬 Ask me about **NodeJs,C++,Java**  
 
 - 📫 How to reach me **abhinendrayadav3@gmail.com**
 

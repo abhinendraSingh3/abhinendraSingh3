@@ -1,4 +1,7 @@
 [![@abhinendrayadav3's Holopin board](https://holopin.me/abhinendrayadav3)](https://holopin.io/@abhinendrayadav3)
+<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFyOWdzZnBreHM3bWgzNHo1a284aW84ZmVseHh1c2Y4ZGNyMHZrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
+
+###
 
 <h1 align="center">Hi 👋, I'm Abhinendra Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
@@ -6,9 +9,7 @@
 
 
 - 🔭 I’m currently working on **Backend**
-<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFyOWdzZnBreHM3bWgzNHo1a284aW84ZmVseHh1c2Y4ZGNyMHZrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
-
-###
+  
 - 🌱 I’m currently learning **NodeJS,MongoDB,ExpressJS**
 
 - 💬 Ask me about **NodeJs,C++,Java**  

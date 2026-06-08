@@ -29,7 +29,7 @@
 
 ### 🐍 Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Pratikshya32/Pratikshya32/output/github-snake-dark.svg" alt="contribution snake" />
+  <img src="https://raw.githubusercontent.com/abhinendraSingh3/abhinendraSingh3/output/github-snake-dark.svg" alt="contribution snake" />
 </div>
 
 ---

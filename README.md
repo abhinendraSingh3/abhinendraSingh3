@@ -11,9 +11,9 @@
 ###
 - 🔭 I’m currently working on **Backend**
   
-- 🌱 I’m currently learning **Spring Boot, Spring AI**
+- 🌱 I’m currently learning **Typescript, NestJs**
 
-- 💬 Ask me about **Java,Javascript,NodeJs,ExpressJs,MongoDB,SQL**  
+- 💬 Ask me about **Java,Javascript,ReactJs,NodeJs,ExpressJs,MongoDB,SQL**  
 
 - 📫 How to reach me **abhinendrayadav3@gmail.com**
 
